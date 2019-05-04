@@ -87,7 +87,7 @@ const Header = ({location}) => (
                 border: 0,
               },
             }}>
-            Đồ Ăn Ngon
+            Phụ Nữ Đẹp
           </span>
         </Link>
 
@@ -116,7 +116,7 @@ const Header = ({location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Những Món Ngon Thần Thánh"
+            title="Những meo làm đẹp"
             to="/blog/"
           />
         </nav>

@@ -7,18 +7,16 @@ id: home
 <section class="light home-section">
   <div class="marketing-row">
     <div class="marketing-col">
-      <h3>Tâm Ẩm Thực</h3>
-      <p>“Phải cố gắng học rộng nghe nhiều, phải biết bổn tâm mình, phải hiểu rõ đạo lý của chư Phật, phải hòa mình vào thế gian để cứu giúp người và vật, không phân biệt ta và người, nghĩ thắng đến quả vị Bồ đề.”</p>
-      <p>Nguyện đem công đức này
-Hướng về chúng sanh khắp pháp giới
-Đồng sanh cõi Cực Lạc..</p>
+      <h3>Lời Tâm Sự</h3>
+      <p>Ở một thế giới hoàn hảo, khi bạn bị cảm, sổ mũi, mỏi mệt vì “đèn đỏ”, bạn sẽ được nằm ườn cả tuần xem phim truyền hình đến khi khỏe hơn. Trên thực tế, bạn thường phải cố gắng lết ra khỏi nhà với miếng khăn giấy thường trực trên tay.</p>
+      <p>Tình hình còn trở nên oái oăm hơn khi công việc đòi hỏi bạn phải giữ diện mạo chuyên nghiệp trước mặt khách hàng. Dưới đây là một vài mẹo làm đẹp bạn có thể áp dụng trong những ngày mỏi mệt...</p>
     </div>
     <div class="marketing-col">
-      <h3>Chân thiện nhân</h3>
+      <h3>Chân Thiện Mỹ</h3>
       <p>Có nhiều quy luật khác nhau trong thế giới và trong vũ trụ này. Một người có khả năng tuân theo cái gọi là luật của một quốc gia trên bề mặt nhưng lại chống lại những luật cao hơn, những quy luật của tự nhiên mà con người không thể thấy, bao gồm Chân-Thiện-Nhẫn, là luật cao nhất trong vũ trụ này. Đại Pháp bất biến bất động cho dù con người có thay đổi thế nào..</p>
     </div>
     <div class="marketing-col">
-      <h3>Thực Chi Đạo</h3>
+      <h3>Cái Lý Mỹ Nhân</h3>
       <p>Có một ngày bạn sẽ hiểu, lương thiện khó hơn thông minh nhiều. Thông minh là một loại tài năng thiên phú, còn lương thiện lại là một sự lựa chọn..</p>
     </div>
   </div>

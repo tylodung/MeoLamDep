@@ -42,7 +42,7 @@ class Home extends Component {
 
   render() {
     const {data} = this.props;
-    const title = 'Đoàn Bình & Ẩm Thực Đệ Nhất';
+    const title = 'Đoàn Bình & Mẹo Làm Đẹp';
 
     return (
       <div css={{width: '100%'}}>
@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Đồ Ngon Đơn Giản Tại Nhà
+                Mẹo Làm Đẹp Đơn Giản Tại Nhà
               </h1>
               <p
                 css={{
@@ -114,7 +114,7 @@ class Home extends Component {
                     fontSize: 30,
                   },
                 }}>
-                Thần Bếp Vào NHà
+                Chăm Sóc Sắc Đẹp Người Phụ Nữ..
               </p>
               <Flex
                 valign="center"
