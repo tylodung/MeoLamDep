@@ -116,7 +116,7 @@ const Header = ({location}) => (
           }}>
           <HeaderLink
             isActive={location.pathname.includes('/blog')}
-            title="Những meo làm đẹp"
+            title="Những mẹo làm đẹp"
             to="/blog/"
           />
         </nav>
@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://panogas.com/"
+            href="https://hongkongnews247.work/"
             target="_blank"
             rel="noopener">
             Bakadono {version}

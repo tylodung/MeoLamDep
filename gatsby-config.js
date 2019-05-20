@@ -8,10 +8,10 @@
 
 module.exports = {
   siteMetadata: {
-    title: 'Hữu Tình',
-    siteUrl: 'https://panogas.com/',
+    title: 'Mẹo Làm Đẹp',
+    siteUrl: 'https://hongkongnews247.work/',
     rssFeedTitle: 'tinhthuong',
-    rssFeedDescription: 'Đoàn Bình và Nhân Gian Hữu Tình',
+    rssFeedDescription: 'Đoàn Bình và Mẹo Làm Đẹp',
   },
   mapping: {
     'MarkdownRemark.frontmatter.author': 'AuthorYaml',
