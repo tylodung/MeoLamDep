@@ -148,7 +148,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="https://hongkongnews247.work/"
+            href="https://suonerie.org/"
             target="_blank"
             rel="noopener">
             Bakadono {version}
@@ -170,7 +170,7 @@ const Header = ({location}) => (
                 borderRadius: 15,
               },
             }}
-            href="http://bakadono.com/"
+            href="https://suonerie.org/"
             target="_blank"
             rel="noopener">
             Bakadono

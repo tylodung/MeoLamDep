@@ -9,7 +9,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Mẹo Làm Đẹp',
-    siteUrl: 'https://hongkongnews247.work/',
+    siteUrl: 'https://suonerie.org/',
     rssFeedTitle: 'tinhthuong',
     rssFeedDescription: 'Đoàn Bình và Mẹo Làm Đẹp',
   },
