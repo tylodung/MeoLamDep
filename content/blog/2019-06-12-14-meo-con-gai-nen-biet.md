@@ -1,6 +1,6 @@
 ---
 title: 14 mẹo vặt làm đẹp con gái nên biết
-author: [lekha]
+author: [doanbinh]
 ---
 Với những mẹo vặt làm đẹp này, các cô gái sẽ rạng rỡ hơn mà không cần phải trang điểm cầu kỳ.
 
