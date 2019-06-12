@@ -4,9 +4,11 @@ author: [doanbinh]
 ---
 Với những mẹo vặt làm đẹp này, các cô gái sẽ rạng rỡ hơn mà không cần phải trang điểm cầu kỳ.
 
+![ten buc hinh](http://imgs.vietnamnet.vn/Images/2017/10/02/16/20171002162316-meo-vat-lam-dep-1.jpg "ten buc hinh")
+
 **1.** Để cột tóc kiểu đuôi ngựa cao bồng bềnh và dày đẹp hơn, bạn hãy dùng 2 chiếc kẹp tăm ghim song song theo hướng từ trên xuống sẽ giúp đuôi tóc cao và dày, ấn tượng hơn rất nhiều. 
 
-![ten buc hinh](http://imgs.vietnamnet.vn/Images/2017/10/02/16/20171002162316-meo-vat-lam-dep-1.jpg "ten buc hinh")
+
 
 **2.** Sấy tóc “chuẩn” bồng bềnh: Sau khi gội đầu xong, bạn hãy cúi xuống và sấy tóc từ dưới lên trên, từ ngoài vào trong để mái tóc phồng đẹp tự nhiên. Cách sấy này còn giúp tóc khô nhanh hơn nữa đấy.
 
@@ -27,8 +29,6 @@ Với những mẹo vặt làm đẹp này, các cô gái sẽ rạng rỡ hơn 
 **9.** Dùng băng dính để kẻ mắt: Lấy miếng băng dính nhỏ, dán lên tay vài lần để bớt dính. Sau đó, bạn hãy dán miếng băng dính lên đuôi mắt để cố định đường kẻ mắt. Giờ thì bạn có thể thoải mái kẻ mắt mà không sợ lệch hay lem nữa rồi.
 
 **10.** Làm sơn móng tay nhanh khô: Sau khi sơn móng tay xong, bạn hãy nhúng tay vào chậu nước có thả vài viên đá, chúng sẽ giúp màu sơn đều màu và khô nhanh hơn.
-
-![ten buc hinh](http://imgs.vietnamnet.vn/Images/2017/10/02/16/20171002162404-meo-vat-lam-dep-4.jpg "ten buc hinh")
 
 
 **11.** Giữ mùi nước hoa lâu hơn: Thoa chút kem dưỡng ẩm không mùi lên vùng da trước khi xịt nước hoa sẽ giúp mùi hương lưu lại trên da lâu hơn. 
