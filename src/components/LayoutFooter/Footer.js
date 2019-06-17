@@ -61,7 +61,7 @@ const Footer = ({layoutHasSidebar = false}) => (
           }}>
           <FooterNav layoutHasSidebar={layoutHasSidebar}>
             <MetaTitle onDark={true}>Tài trợ & Công Đức</MetaTitle>
-            <FooterLink to="/blog/">Món Ngon Mẹ Nấu</FooterLink>
+            <FooterLink to="/blog/">Phụ Nữ Đẹp</FooterLink>
             <ExternalFooterLink
               href="http://bakadono.com"
               target="_blank"
@@ -78,7 +78,7 @@ const Footer = ({layoutHasSidebar = false}) => (
               href="http://trasuaphuquoc.com"
               target="_blank"
               rel="noopener">
-              Ẩm Thực Việt Nam
+              Người Đẹp Tây Đô
             </ExternalFooterLink>
           </FooterNav>
         </div>
