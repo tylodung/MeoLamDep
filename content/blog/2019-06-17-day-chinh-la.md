@@ -8,6 +8,8 @@ author: [doanbinh]
 
 Việc thay đổi cùng lúc quá nhiều sản phẩm dưỡng chính là sai lầm khiến làn da của bạn dù chăm mãi vẫn khó mà đẹp lên.
 
+![ten buc hinh](http://beautyworld.net.vn/wp-content/uploads/2019/04/wp2153262.jpg "ten buc hinh")
+
 Chu trình dưỡng da 10 bước kiểu Hàn đang ngày càng trở nên phổ biến và được nhiều người học hỏi theo vì hứa hẹn đem lại làn da mềm mại, căng bóng như những cô nàng xứ Kim chi. Tuy nhiên có một sai lầm phổ biến khiến bạn dù học hỏi y hệt chu trình dưỡng của họ nhưng vẫn không thể có làn da đẹp, đó là: dùng quá nhiều sản phẩm mới.
 
 Nói một cách đơn giản, khi quyết tâm tạo nên cuộc cách mạng cho làn da, nhiều cô nàng đã thay đổi toàn bộ chu trình dưỡng da, mua cùng lúc cả bộ sản phẩm với hy vọng có được làn da đẹp không tỳ vết. Vậy nhưng đây lại là sai lầm vô cùng tai hại bởi lẽ khi thay đổi sản phẩm quá nhiều, da có thể chưa quen với chu trình mới và trở nên nhạy cảm hơn. Ngoài ra, trong trường hợp da bị kích ứng bởi một trong những sản phẩm mới thì bạn cũng khó có thể tìm ra nguyên nhân để giải quyết triệt để.
