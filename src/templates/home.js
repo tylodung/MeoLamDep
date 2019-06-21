@@ -92,7 +92,7 @@ class Home extends Component {
                     fontSize: 60,
                   },
                 }}>
-                Mẹo Làm Đẹp Đơn Giản Tại Nhà
+                Mẹo Làm Phụ Nữ Đẹp
               </h1>
               <p
                 css={{

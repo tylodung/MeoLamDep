@@ -8,6 +8,8 @@ author: [doanbinh]
 
 Retinol chính là hoạt chất chống lão hóa thần kỳ mà các tín đồ làm đẹp không thể bỏ qua.
  
+![ten buc hinh](http://beautyworld.net.vn/wp-content/uploads/2019/05/1460572482-hbz-skincare-index.jpg "ten buc hinh")
+
 Bấy lâu nay retinol vẫn được coi là hoạt chất chống lão hóa thần kỳ, giúp kích thích da sản sinh collagen, hạn chế sự hình thành nếp nhăn lão hóa. Tuy nhiên đến tận bây giờ nhiều tín đồ làm đẹp vẫn đang phân vân không biết liệu retinol có thực sự hiệu quả hay không. Vậy thì bạn sẽ có ngay câu trả lời khi nhìn hình ảnh người phụ nữ sau 3 năm kiên trì sử dụng retinol dưới đây.
 
 Câu chuyện của người phụ nữ này được đăng tải trên website Hotandflashy đã khiến nhiều người vô cùng bất ngờ. Được biết bà bắt đầu sử dụng retinol khi bắt đầu bước sang tuổi 50, tính đến nay đã hơn 5 năm bà sử dụng sản phẩm có chứa thành phần này. Để kiểm tra độ hiệu quả, bà luôn chăm chỉ chụp ảnh ảnh so sánh các thời kỳ 9 tháng, 2 năm, 3 năm và 5 năm.
