@@ -7,6 +7,7 @@ author: [doanbinh]
 
 6 loại kem chống nắng đang được Min, Quỳnh Anh Shyn, Khánh Linh, Mẫn Tiên, Phí Phương Anh và Mai Vân Trang dùng chính là những ứng viên đáng tham khảo nếu bạn đang bối rối giữa mê hồn trận kem chống nắng trên thị trường hiện nay.
 
+![ten buc hinh](http://afamilycdn.com/2019/5/21/photo-6-1558443868537968081829.jpg "ten buc hinh")
 
 Đến từ thương hiệu nội địa Nhật Shigaisen Yohou, em này là kem chống nắng vật lý với 2 thành phần chống nắng nổi tiếng Zinc Oxide và Titanium Dioxie. Ngoài ra, sản phẩm còn được bổ sung thành phần dưỡng ẩm là Collagen, Hyaluronic Acid cùng chiết xuất thảo dược; không chứa chất hóa học, cồn, paraben hay hương liệu nên được đánh giá là an toàn với cả làn da nhạy cảm nhất.
 

@@ -8,6 +8,8 @@ author: [doanbinh]
 
 Mùa hè nóng nực và kéo theo đó, chuyện ăn mặc của mọi chị em thường xoay quanh những items mỏng nhẹ, mát mẻ nhất. 
 
+![ten buc hinh](https://thumb.guucdn.net/400x225/images.guucdn.net/full/2019/05/22/f270281b8e386fc24bcacfdfbab33b000d85e272.jpg "ten buc hinh")
+
 Chúng ta có nào là: áo hai dây, váy vải thô đũi, quần shorts ngắn… và trong từ điển ăn diện mùa hè của các chị em, còn có sự xuất hiện của 1 item nhẹ mát nữa, đó chính là: áo voan trắng.
 
 
