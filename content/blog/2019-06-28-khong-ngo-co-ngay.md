@@ -8,6 +8,8 @@ author: [doanbinh]
 
 “Ngậm ngùi tóc bạc ngó lòng đau” đã từng là nỗi niềm của cô Nguyễn Thị Bắc suốt gần 20 năm ròng nhưng điều kì diệu đã xảy ra khi giờ đây, phần chân tóc và tóc con mới mọc chuyển đen đã mang lại cho mái tóc bạc tới nửa đầu của cô một tia hi vọng mới! Đó chính là câu chuyện mà cô Bắc đã chia sẻ với tôi trong 30 phút trò chuyện ngắn ngủi.
 
+![ten buc hinh](http://botania.com.vn/upload/images/hien-tuong-toc-bac-som-o-nu-gioi.jpg "ten buc hinh")
+
 
 Cô Nguyễn Thị Bắc – 57 tuổi trú tại thôn Vũ An, xã Thái sơn, Kinh Môn, Hải Dương, đt: 0946.958.533 là một người bạc tóc do di truyền từ khi còn rất trẻ. “Bị bạc từ bao giờ cô cũng chẳng nhớ nổi cháu ạ, lâu quá rồi! Chỉ biết là trước có bạc nhưng ít nên có sợi tóc bạc nào là cô nhổ ngay. Nhưng sau 40 tuổi, đúng độ tuổi mãn kinh và tiền mãn kinh của phụ nữ hay sao mà tốc độ bạc tóc nhanh hơn hẳn, có khi một tháng phải có thêm đến vài chục sợi bạc.” – cô ngậm ngùi chia sẻ.
 
